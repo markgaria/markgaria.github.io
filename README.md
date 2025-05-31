@@ -54,6 +54,7 @@
     <img src="magazin.jpeg" alt="Art piece 3">
     <img src="og.jpeg" alt="Art piece 4">
     <img src="poster.jpeg" alt="Art piece 5">
+    (https://github.com/user-attachments/assets/639e3fe1-a212-45b7-ae07-c759fc04ca42) ![Image](https://github.com/user-attachments/assets/12f0985e-eb29-4ce0-be34-e34dd1a1517d)
 </div>
 
 <footer>
