@@ -49,11 +49,11 @@
 </div>
 
 <div class="gallery">
-    <img src="eye.jpeg" alt="Art piece 1">
-    <img src="logo.jpeg" alt="Art piece 2">
-    <img src="magazin.jpeg" alt="Art piece 3">
-    <img src="og.jpeg" alt="Art piece 4">
-    <img src="poster.jpeg" alt="Art piece 5">
+    <img src="eye.jpg" alt="Art piece 1">
+    <img src="logo.jpg" alt="Art piece 2">
+    <img src="magazin.jpg" alt="Art piece 3">
+    <img src="og.jpg" alt="Art piece 4">
+    <img src="poster.jpg" alt="Art piece 5">
 </div>
 
 <footer>
