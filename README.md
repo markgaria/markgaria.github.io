@@ -23,8 +23,8 @@
         }
         .gallery img {
 
-            height: auto;
-            margin: 10px;
+        height: auto;
+        margin: 10px;
 	
         }
         .bio {
