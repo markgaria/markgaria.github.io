@@ -36,8 +36,8 @@
 <body>
 
 <header>
-    <h1>Pahimnayan Mark Ian B.</h1>
-    <p>22 Years Old | Course: BMMA 2A</p>
+    <h1> Pahimnayan Mark Ian B.</h1>
+    <p> 22 Years Old | Course: BMMA 2A </p>
 </header>
 
 <div class="bio">
