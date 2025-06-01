@@ -49,7 +49,8 @@
 </div>
 
 <div class="gallery">
-    <img src="eye.jpeg"alt="Art piece 1">
+    <img src="![436c4ba1-038d-40ca-92fb-8507ad494a1b](https://github.com/user-attachments/assets/0552966b-f113-455f-99b9-c1fcecdc4bf7)
+"alt="Art piece 1">
     <img src="logo.jpeg"alt="Art piece 2">
     <img src="magazin.jpeg"alt="Art piece 3">
     <img src="og.jpeg"alt="Art piece 4">
