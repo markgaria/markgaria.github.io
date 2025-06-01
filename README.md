@@ -1,9 +1,9 @@
 # markgaria.github.io<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pahimnayan Mark Ian B. - Aspiring Artist</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pahimnayan Mark Ian B. - Aspiring Artist</title>
     <style>
         body {
             font-family: Arial, sans-serif;
