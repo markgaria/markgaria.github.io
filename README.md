@@ -3,34 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pahimnayan Mark Ian B.-Aspiring Artist</title>
+    <title>Pahimnayan Mark Ian B. - Aspiring Artist</title>
     <style>
-        body {
+        body {}
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             color: #333;
             margin: 0;
             padding: 20px;
-        }
-        header, footer {
+        {}
+        header, footer {}
             text-align: center;
-        }
-        .gallery {
+        {}
+        .gallery {}
             display: flex;
             flex-wrap: wrap;
             justify-content: space-around;
             margin: 20px 0;
-        }
-        .gallery img {
+        {}
+        .gallery img {}
 
             height: auto;
             margin: 10px;
 	
-        }
-        .bio {
+        {}
+        .bio {}
             text-align: center;
             margin: 20px 0;
-        }
+        {}
     </style>
 </head>
 <body>
