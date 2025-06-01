@@ -54,11 +54,11 @@
     <img src="magazin.jpeg" alt="Art piece 3">
     <img src="og.jpeg" alt="Art piece 4">
     <img src="poster.jpeg" alt="Art piece 5">
-     "(https://github.com/user-attachments/assets/639e3fe1-a212-45b7-ae07-c759fc04ca42)">
-     "(https://github.com/user-attachments/assets/12f0985e-eb29-4ce0-be34-e34dd1a1517d)">
-     "(https://github.com/user-attachments/assets/b800818b-e6f8-4f20-be83-36b812cc31d2)">
-     "(https://github.com/user-attachments/assets/f8ea450f-a6fb-41b8-a8b9-ab7ba3d61b7e)">
-     "(https://github.com/user-attachments/assets/fcfe2fe3-f517-4f4e-9c84-8258a43501f2)">
+     https://github.com/user-attachments/assets/639e3fe1-a212-45b7-ae07-c759fc04ca42
+     https://github.com/user-attachments/assets/12f0985e-eb29-4ce0-be34-e34dd1a1517d
+     https://github.com/user-attachments/assets/b800818b-e6f8-4f20-be83-36b812cc31d2
+     https://github.com/user-attachments/assets/f8ea450f-a6fb-41b8-a8b9-ab7ba3d61b7e
+     https://github.com/user-attachments/assets/fcfe2fe3-f517-4f4e-9c84-8258a43501f2
 </div>
 
 <footer>
