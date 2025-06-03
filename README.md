@@ -1,4 +1,5 @@
 # markgaria.github.io<Portfoilio html>
+file:///C:/Users/MARK%20IAN/Downloads/Pahimnayan%20Mark%20Ian%20B.%20-%20Aspiring%20Artist.html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,8 +50,7 @@
 </div>
 
 <div class="gallery">
-    <img src="![436c4ba1-038d-40ca-92fb-8507ad494a1b](https://github.com/user-attachments/assets/0552966b-f113-455f-99b9-c1fcecdc4bf7)
-"alt="Art piece 1">
+    <img src="eye.jpeg"alt="Art piece 1">
     <img src="logo.jpeg"alt="Art piece 2">
     <img src="magazin.jpeg"alt="Art piece 3">
     <img src="og.jpeg"alt="Art piece 4">
