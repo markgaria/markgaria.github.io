@@ -1,5 +1,4 @@
 # markgaria.github.io<Portfoilio html>
-file:///C:/Users/MARK%20IAN/Downloads/Pahimnayan%20Mark%20Ian%20B.%20-%20Aspiring%20Artist.html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
